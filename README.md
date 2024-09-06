@@ -69,7 +69,7 @@
 
   用Diskgenius或者Minitool partition wizard这类分区工具把之前的100M EFI分区删了就好了
 
-- [**OC(OpenCore)**](https://kkgithub.com/ic005k/OCAuxiliaryTools/releases/download/20240001/OCAT-Win64.zip "OC 修改工具")修改工具
+- [**OC(OpenCore)**](https://github.com/ic005k/OCAuxiliaryTools/releases/download/20240001/OCAT-Win64.zip "OC 修改工具")修改工具
 
 - [**nootedred**](https://github.com/ChefKissInc/NootedRed "Nootedred")这个驱动让我们能在AMD驱动核显，不过最好别一开始就启用，先装好再回PE修改启用，禁用的话就是打开OCAT应用，点开EFI-OC-config.plist,打开界面找到Kernal，找到nootedred,取消打勾，**安装好之后得回来修改启用，不然很卡没法用**
 
