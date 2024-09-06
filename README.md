@@ -1,4 +1,4 @@
-# Xiaoxin-Pro16-Ryzen-Hackintosh
+# Xiaoxin-Pro16-Ryzen-Hackintosh 小新Pro16锐龙版（R5&R7）黑苹果双系统教程
 > @利头霍斯 【少数派，CSDN，B站都同名】
 
 ### 1.镜像文件下载
