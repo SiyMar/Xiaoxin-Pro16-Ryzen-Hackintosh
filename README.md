@@ -61,7 +61,7 @@
 
   退出重新打开cmd
 
-  `bcboot C:\windows /s P: /f UEFI`
+  `bcdboot C:\windows /s P: /f UEFI`
 
   `exit`
 
